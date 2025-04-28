@@ -1,0 +1,194 @@
+[
+  {
+    "agentType": "coordinator",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [
+      "gerenciamento de projetos",
+      "coordenação de equipes multidisciplinares",
+      "comunicação eficaz",
+      "resolução de problemas complexos",
+      "pensamento sistêmico"
+    ],
+    "knownConcepts": [],
+    "completedLearningTasks": [
+      "Aprendizado em gerenciamento de projetos em 2025-04-28T17:11:20.758Z",
+      "Aprendizado em coordenação de equipes multidisciplinares em 2025-04-28T17:11:26.106Z",
+      "Aprendizado em comunicação eficaz em 2025-04-28T17:11:30.736Z",
+      "Aprendizado em resolução de problemas complexos em 2025-04-28T17:11:35.278Z",
+      "Aprendizado em pensamento sistêmico em 2025-04-28T17:11:40.687Z"
+    ],
+    "latestInsights": [
+      "Nova informação sobre gerenciamento de projetos: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"gerenciamento de projetos\" no contexto de Coordenador incluem:\n\n1. **Pla...",
+      "Nova informação sobre coordenação de equipes multidisciplinares: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"coordenação de equipes multidisciplinares\" são amplamente discutidos em ...",
+      "Nova informação sobre comunicação eficaz: A comunicação eficaz é fundamental em qualquer contexto profissional, incluindo o papel de Coordenador. Aqui estão alguns conhecimentos recentes, abor...",
+      "Nova informação sobre resolução de problemas complexos: A resolução de problemas complexos é um tema amplamente abordado em diversas áreas, incluindo educação, gestão de qualidade e saúde. Aqui estão alguns...",
+      "Nova informação sobre pensamento sistêmico: O \"pensamento sistêmico\" é uma abordagem que busca entender complexos sistemas e problemas como um todo, considerando as interações e relações entre o..."
+    ],
+    "lastUpdated": "2025-04-28T17:11:40.895Z"
+  },
+  {
+    "agentType": "planner",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T17:11:40.895Z"
+  },
+  {
+    "agentType": "researcher",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [
+      "metodologias de pesquisa",
+      "análise de dados",
+      "fontes confiáveis de informação",
+      "pesquisa de mercado",
+      "coleta e organização de dados"
+    ],
+    "knownConcepts": [],
+    "completedLearningTasks": [
+      "Aprendizado em metodologias de pesquisa em 2025-04-28T17:11:45.753Z",
+      "Aprendizado em análise de dados em 2025-04-28T17:11:50.030Z",
+      "Aprendizado em fontes confiáveis de informação em 2025-04-28T17:11:53.621Z",
+      "Aprendizado em pesquisa de mercado em 2025-04-28T17:11:59.074Z",
+      "Aprendizado em coleta e organização de dados em 2025-04-28T17:12:03.481Z"
+    ],
+    "latestInsights": [
+      "Nova informação sobre metodologias de pesquisa: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em metodologias de pesquisa, especialmente no contexto de Pesquisador, inclu...",
+      "Nova informação sobre análise de dados: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"análise de dados\" no contexto de pesquisa acadêmica incluem:\n\n1. **Metod...",
+      "Nova informação sobre fontes confiáveis de informação: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"fontes confiáveis de informação\" no contexto de pesquisa são destacados ...",
+      "Nova informação sobre pesquisa de mercado: A pesquisa de mercado é um campo dinâmico, influenciado por avanços tecnológicos e mudanças nos comportamentos dos consumidores. Aqui estão alguns con...",
+      "Nova informação sobre coleta e organização de dados: Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"coleta e organização de dados\" no contexto de pesquisa são influenciados..."
+    ],
+    "lastUpdated": "2025-04-28T17:12:03.590Z"
+  },
+  {
+    "agentType": "analyst",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T18:11:16.133Z"
+  },
+  {
+    "agentType": "advisor",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T18:11:16.134Z"
+  },
+  {
+    "agentType": "summarizer",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T18:11:16.134Z"
+  },
+  {
+    "agentType": "executor",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "evaluator",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "critic",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "transport_expert",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [
+      "logística moderna",
+      "gestão de frotas",
+      "otimização de rotas",
+      "tecnologias de rastreamento",
+      "legislação de transporte no Brasil",
+      "custos operacionais em transporte",
+      "manutenção preventiva de veículos"
+    ],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "farm_expert",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [
+      "agricultura de precisão",
+      "tecnologias para agronegócio",
+      "gestão de fazendas",
+      "cultivo sustentável",
+      "mercado agrícola brasileiro",
+      "irrigação eficiente",
+      "manejo de pragas"
+    ],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "finance_expert",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "tech_expert",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  },
+  {
+    "agentType": "personal_coach",
+    "specializations": [],
+    "expertiseLevel": 5,
+    "learningFocus": [],
+    "knownConcepts": [],
+    "completedLearningTasks": [],
+    "latestInsights": [],
+    "lastUpdated": "2025-04-28T16:11:16.132Z"
+  }
+]

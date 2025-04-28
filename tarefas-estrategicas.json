@@ -1,0 +1,30 @@
+[
+  {
+    "tipo": "tarefa",
+    "conteudo": "Implementar Painel de Missões Diárias e Reflexões, com cards para visualizar missão do dia, refletir sobre execução e registrar aprendizados.",
+    "contexto": "Melhorar visualização e facilitar a interação diária com o sistema de crescimento pessoal.",
+    "prioridade": "altissima",
+    "origem": "GPT-Agent-Alpha"
+  },
+  {
+    "tipo": "tarefa",
+    "conteudo": "Desenvolver Gerador de Decisões Estratégicas para apoiar Luiz na escolha entre grandes decisões, apresentando cenários simulados com base em princípios estratégicos.",
+    "contexto": "Minimizar erros em decisões críticas e acelerar o sucesso em grandes movimentos.",
+    "prioridade": "altissima",
+    "origem": "GPT-Agent-Alpha"
+  },
+  {
+    "tipo": "tarefa",
+    "conteudo": "Criar Programa de Evolução em Ciclos, com metas semanais personalizadas para desenvolvimento contínuo e adaptação automática de foco baseado no progresso real.",
+    "contexto": "Garantir crescimento consistente e alinhado às prioridades estratégicas de Luiz.",
+    "prioridade": "altissima",
+    "origem": "GPT-Agent-Alpha"
+  },
+  {
+    "tipo": "tarefa",
+    "conteudo": "Otimizar e Modernizar a Interface Principal: reorganizar o painel principal para destacar missões, reflexões, decisões e performance, com botões rápidos e cards inteligentes de interação.",
+    "contexto": "Tornar o sistema mais rápido, intuitivo e poderoso para uso diário e estratégico, sem complexidade desnecessária.",
+    "prioridade": "altissima",
+    "origem": "GPT-Agent-Alpha"
+  }
+]

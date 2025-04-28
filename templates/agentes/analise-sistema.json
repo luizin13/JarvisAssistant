@@ -1,0 +1,14 @@
+{
+  "AgenteAnaliseSistema": {
+    "nome": "AgenteAnaliseSistema",
+    "descricao": "Agente de auditoria total do sistema. Varre o funcionamento interno, detecta falhas técnicas, inconsistências de comunicação entre agentes, lentidão de processos e gaps de segurança.",
+    "funcoes": [
+      "Auditar logs de execução de todos os agentes.",
+      "Detectar falhas de comunicação e resposta entre APIs.",
+      "Mapear erros silenciosos que não geraram alertas visíveis.",
+      "Sugerir otimizações de performance onde encontrar gargalos."
+    ],
+    "frequencia_checagem": "a cada 30 minutos",
+    "prioridade": "altissima"
+  }
+}

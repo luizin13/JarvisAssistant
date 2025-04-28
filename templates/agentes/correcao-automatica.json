@@ -1,0 +1,14 @@
+{
+  "AgenteCorrecaoAutomatica": {
+    "nome": "AgenteCorrecaoAutomatica",
+    "descricao": "Agente responsável por corrigir falhas conhecidas, aplicar patches automáticos e restaurar fluxos críticos em caso de detecção de falhas.",
+    "funcoes": [
+      "Aplicar correções de configuração simples (sem intervenção manual).",
+      "Restaurar agentes que travarem ou ficarem offline.",
+      "Corrigir inconsistências básicas de comunicação entre agentes.",
+      "Propor plano de correções manuais para falhas mais graves."
+    ],
+    "frequencia_checagem": "a cada 1 hora",
+    "prioridade": "altissima"
+  }
+}

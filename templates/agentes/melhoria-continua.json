@@ -1,0 +1,14 @@
+{
+  "AgenteMelhoriaContinua": {
+    "nome": "AgenteMelhoriaContinua",
+    "descricao": "Agente de evolução constante do sistema. Sempre analisa padrões de funcionamento para sugerir melhorias incrementais ou estruturais.",
+    "funcoes": [
+      "Analisar padrões de execução para sugerir refatoração de código.",
+      "Detectar áreas onde a latência pode ser reduzida.",
+      "Propor modularização de agentes para expansão futura.",
+      "Sugerir upgrades tecnológicos e arquiteturais."
+    ],
+    "frequencia_checagem": "a cada 6 horas",
+    "prioridade": "alta"
+  }
+}

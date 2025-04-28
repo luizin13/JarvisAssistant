@@ -1,0 +1,21 @@
+{
+  "id": "74a6d51a-3df7-43d4-b2bc-ab8297c71188",
+  "type": "research_paper",
+  "title": "Atualização em coleta e organização de dados para Pesquisador",
+  "content": "Os conhecimentos mais recentes, abordagens inovadoras e melhores práticas em \"coleta e organização de dados\" no contexto de pesquisa são influenciados por várias iniciativas e tendências. Aqui estão algumas das principais:\n\n1. **Dados Abertos**:\n   - O princípio fundamental dos dados abertos é que os repositórios devem conter o produto da coleta científica e os critérios pelos quais foi realizada, sem incluir objetos ou pessoas pesquisadas. Isso permite a reprodutibilidade da pesquisa, permitindo que outros cientistas obtenham resultados semelhantes[5].\n   - A digitalização de acervos documentais e bibliográficos permitiu a criação de bases de dados transversais, acumulando milhões de documentos de diferentes arquivos no mundo[5].\n\n2. **Infraestrutura Nacional**:\n   - É fundamental fortalecer a infraestrutura nacional para evitar a dependência de plataformas estrangeiras e garantir a soberania do conhecimento científico. Muitos projetos brasileiros publicam seus dados em repositórios internacionais, como Harvard Dataverse Repository, MIT Libraries Data Management e Zenodo[5].\n\n3. **Colaboração Global**:\n   - A Semana Internacional de Dados (IDW) é um evento marcante que conecta dados e pessoas para avançar a ciência e melhorar o mundo. O Comitê de Dados (CODATA) trabalha com a comunidade para promover a colaboração global e melhorar a disponibilidade e usabilidade dos dados para todas as áreas de investigação[2].\n\n4. **Políticas e Práticas**:\n   - A Research Data Alliance, criada em 2013, foca na implementação detalhada de políticas, práticas e tecnologias que reduzam as barreiras à troca de dados. Seus membros são indivíduos e organizações, privadas e sem fins lucrativos, trabalhando para promover a Ciência Aberta[2].\n\n5. **Investimentos em Pesquisa**:\n   - Iniciativas como a chamada da FAPEMIG, que investe R$5 milhões em pesquisadores brasileiros no exterior, também contribuem para melhorar a coleta e organização de dados. Essas iniciativas trazem recursos para os departamentos que recebem os pesquisadores, beneficiando a pesquisa em geral[3].\n\nEssas abordagens e práticas refletem a evolução contínua na coleta e organização de dados, destacando a importância da colaboração global, da infraestrutura nacional e da adesão aos princípios dos dados abertos.",
+  "relevantDomains": [
+    "researcher"
+  ],
+  "dateAdded": "2025-04-28T17:12:03.480Z",
+  "usageCount": 0,
+  "tags": [
+    "coleta e organização de dados",
+    "coleta",
+    "e",
+    "organização",
+    "de",
+    "dados"
+  ],
+  "source": "perplexity",
+  "summary": "Pesquisa sobre coleta e organização de dados para melhorar as capacidades do agente Pesquisador"
+}
